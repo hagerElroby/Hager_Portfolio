@@ -23,13 +23,13 @@ export const products = [
       },
       {
         id: 5,
-        img: "./screencapture-hagerelroby-github-io-Agency-Template-2022-07-17-11_14_59.png",
-        link: "http://lama.dev",
+        img: require('./img/5.jpg'),
+        link: "https://hagerelroby.github.io/Html-Css-Templete-One/",
       },
       {
         id: 6,
-        img: "https://drive.google.com/file/d/1_3oo1iXZcgK9SgSenvrxLJ8cZS_IvYQE/view?usp=sharing",
-        link: "http://lama.dev",
+        img: require('./img/6.jpg'),
+        link: "https://to-do-list-app-pi-seven.vercel.app/",
       },
     ];
     
